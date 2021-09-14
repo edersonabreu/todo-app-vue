@@ -3,8 +3,6 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
-
 Todo list é um projeto para fins de estudos do VUE JS, onde uma lista de afazeres foi criada utilizando o básico de HTML/CSS/BOOTSTRAP/VUE, o projeto não está integrado com nenhum tipo de banco de dados, os dados utilizados são os mesmos inseridos no front via campo de texto, e por meio dele é possível fazer a edição da informação já cadastrada. 
 
 # Tecnologias utilizadas
