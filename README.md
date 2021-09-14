@@ -1,18 +1,39 @@
-# todo-app
+# Todo List - Lista de Afazeres com VUE JS 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/edersonabreu/todo-app/blob/main/LICENSE) 
 
-> A Vue.js project
+# Sobre o projeto
 
-## Build Setup
+https://wmazoni-sds1.netlify.app
 
-``` bash
-# install dependencies
+Todo list é um projeto para fins de estudos do VUE JS, onde uma lista de afazeres foi criada utilizando o básico de HTML/CSS/BOOTSTRAP/VUE, o projeto não está integrado com nenhum tipo de banco de dados, os dados utilizados são os mesmos inseridos no front via campo de texto, e por meio dele é possível fazer a edição da informação já cadastrada. 
+
+# Tecnologias utilizadas
+
+## Front end
+- HTML 
+- CSS 
+- BOOTSTRAP
+- VUE
+
+
+# Como executar o projeto
+
+```bash
+# clonar repositório
+git clone https://github.com/edersonabreu/todo-app.git
+
+# entrar na pasta do projeto
+cd todo-app
+
+# instalar nodejs 
 npm install
 
-# serve with hot reload at localhost:8080
+# executar o projeto
 npm run dev
 
-# build for production with minification
-npm run build
-```
+# Autor
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Ederson de Abreu Neves
+
+https://www.linkedin.com/in/ederson-abreu-98774a11a/
+
