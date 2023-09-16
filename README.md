@@ -14,6 +14,9 @@ Todo list é um projeto para fins de estudos do VUE JS, onde uma lista de afazer
 - JAVASCRIPT
 - VUE
 
+### CAPTURAS DE TELA
+#### Tela de cadastro de tarefa
+
 
 # Como executar o projeto
 
