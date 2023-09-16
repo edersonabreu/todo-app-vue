@@ -15,8 +15,14 @@ Todo list é um projeto para fins de estudos do VUE JS, onde uma lista de afazer
 - VUE
 
 ### CAPTURAS DE TELA
-#### Tela de cadastro de tarefa
+#### Cadastro de tarefa
+![1 - cadastro de nova tarefa](https://github.com/edersonabreu/todo-app/assets/29956737/5fc0df28-6d05-4208-a086-59985bd42949)
 
+#### Edição de tarefa
+![2 - editar tarefa](https://github.com/edersonabreu/todo-app/assets/29956737/86d01bbb-ce08-4f37-a5a8-452cbd3a00f2)
+
+#### Exclusão de tarefa concluída
+![3 - tarefa excluida](https://github.com/edersonabreu/todo-app/assets/29956737/2da9bd9b-34e2-463c-83ae-f27141dc96ab)
 
 # Como executar o projeto
 
